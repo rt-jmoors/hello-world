@@ -1,3 +1,3 @@
 # hello-world
-Learning Github
+Learning Github.
 Making changes to Readme file.
